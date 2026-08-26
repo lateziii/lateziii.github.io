@@ -6,6 +6,4 @@ title: "Contact"
 
 **Affiliation:** Tampere University
 
-- ORCID: [TODO: add link]
-- Google Scholar: [TODO: add link]
-- [Institutional profile](https://www.tuni.fi/fi/ihmiset/lauri-turkia)
+[University profile](https://www.tuni.fi/fi/ihmiset/lauri-turkia)
