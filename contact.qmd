@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+**Email:** [lauri.turkia@tuni.fi](mailto:lauri.turkia@tuni.fi)
+
+**Affiliation:** Tampere University, Finnish Institute for Educational Leadership (FIT)
+
+- ORCID: [TODO: add link]
+- Google Scholar: [TODO: add link]
+- Institutional profile: [TODO: add link]

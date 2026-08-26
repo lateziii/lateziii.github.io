@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lauri Turkia"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Bio
+      - href: research.qmd
+        text: Research
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

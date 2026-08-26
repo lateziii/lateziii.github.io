@@ -1,0 +1,19 @@
+---
+title: "Lauri Turkia"
+---
+
+<!-- TODO: replace with real headshot -->
+
+Researcher, Tampere University (Finnish Institute for Educational Leadership / FIT).
+
+<!-- DRAFT: edit me -->
+I study education economics and intergenerational mobility, with a focus on
+how parental wealth shapes children's educational attainment. My current work
+uses Finnish administrative register data to separate the causal effect of
+family resources from selection on family characteristics. See the
+[Research](research.qmd) page for more.
+
+## CV
+
+- Education: [TODO: add]
+- Positions: [TODO: add]

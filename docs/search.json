@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lauri Turkia",
+    "section": "",
+    "text": "Researcher, Tampere University (Finnish Institute for Educational Leadership / FIT).\nI study education economics and intergenerational mobility, with a focus on how parental wealth shapes children’s educational attainment. My current work uses Finnish administrative register data to separate the causal effect of family resources from selection on family characteristics. See the Research page for more."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Lauri Turkia",
+    "section": "CV",
+    "text": "CV\n\nEducation: [TODO: add]\nPositions: [TODO: add]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Children of wealthy parents are far more likely to complete higher education than children of poor parents. This gradient is one of the most robust patterns in the study of intergenerational mobility, and higher education is one of the main channels through which economic advantage passes from one generation to the next.\nThe gradient admits two very different readings. Under a resource interpretation, wealth has a causal effect: it relaxes constraints on educational investment — covering living costs, insuring against the risk that schooling doesn’t pay off, or letting a family support a child through years of forgone earnings. Under a family-type interpretation, wealth is instead a marker for characteristics that produce both the parents’ wealth and the children’s schooling — parental education, preferences, transmitted ability, social networks. The same correlation is consistent with a real policy lever or with a mere symptom of who wealthy families already are — telling the two apart is the question this project takes up.\nFinland’s setting sharpens the test: tertiary education is tuition-free for domestic students, so the most mechanical resource channel — the ability to pay for school — is switched off. If parental wealth still shapes children’s educational attainment here, the operative channel must be something other than tuition affordability. If the gradient instead disappears once family type is held fixed, then wealth differences do little to cause educational attainment, even where they’re large.\nThis project uses Finnish administrative register data to decompose the observed wealth–education gradient into a causal resource share and a family-type component, and is under development, targeting outlets in labor and education economics."
+  },
+  {
+    "objectID": "research.html#wealthedu-parental-wealth-and-tertiary-education",
+    "href": "research.html#wealthedu-parental-wealth-and-tertiary-education",
+    "title": "Research",
+    "section": "",
+    "text": "Children of wealthy parents are far more likely to complete higher education than children of poor parents. This gradient is one of the most robust patterns in the study of intergenerational mobility, and higher education is one of the main channels through which economic advantage passes from one generation to the next.\nThe gradient admits two very different readings. Under a resource interpretation, wealth has a causal effect: it relaxes constraints on educational investment — covering living costs, insuring against the risk that schooling doesn’t pay off, or letting a family support a child through years of forgone earnings. Under a family-type interpretation, wealth is instead a marker for characteristics that produce both the parents’ wealth and the children’s schooling — parental education, preferences, transmitted ability, social networks. The same correlation is consistent with a real policy lever or with a mere symptom of who wealthy families already are — telling the two apart is the question this project takes up.\nFinland’s setting sharpens the test: tertiary education is tuition-free for domestic students, so the most mechanical resource channel — the ability to pay for school — is switched off. If parental wealth still shapes children’s educational attainment here, the operative channel must be something other than tuition affordability. If the gradient instead disappears once family type is held fixed, then wealth differences do little to cause educational attainment, even where they’re large.\nThis project uses Finnish administrative register data to decompose the observed wealth–education gradient into a causal resource share and a family-type component, and is under development, targeting outlets in labor and education economics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: lauri.turkia@tuni.fi\nAffiliation: Tampere University, Finnish Institute for Educational Leadership (FIT)\n\nORCID: [TODO: add link]\nGoogle Scholar: [TODO: add link]\nInstitutional profile: [TODO: add link]"
+  }
+]
