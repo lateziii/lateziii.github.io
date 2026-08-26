@@ -13,6 +13,7 @@ website:
   open-graph: true
   twitter-card: true
   image: "LauriTurkia.jpg"
+  favicon: "favicon.svg"
   navbar:
     left:
       - href: index.qmd
