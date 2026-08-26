@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contact details for Lauri Turkia, PhD student in economics at Tampere University."
 ---
 
 **Email:** [lauri.turkia@tuni.fi](mailto:lauri.turkia@tuni.fi)

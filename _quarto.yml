@@ -8,6 +8,11 @@ project:
 
 website:
   title: "Lauri Turkia"
+  site-url: "https://lateziii.github.io"
+  description: "Lauri Turkia — PhD student in economics at Tampere University, researching parental wealth, education, and inequality."
+  open-graph: true
+  twitter-card: true
+  image: "LauriTurkia.jpg"
   navbar:
     left:
       - href: index.qmd

@@ -1,5 +1,6 @@
 ---
 title: "Lauri Turkia"
+description: "PhD student in economics at Tampere University, researching parental wealth, education, and inequality."
 ---
 
 ![](LauriTurkia.jpg){width=200px}

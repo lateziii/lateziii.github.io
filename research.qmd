@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Research by Lauri Turkia on parental wealth and tertiary education, foreign ownership and wages, and foreign ownership and innovation."
 ---
 
 ## More Than Money: How Parental Wealth Shapes Selection and Success in Tertiary Education
