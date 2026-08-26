@@ -5,6 +5,8 @@ project:
     - index.qmd
     - research.qmd
     - contact.qmd
+  resources:
+    - google37d44d48e1bc3261.html
 
 website:
   title: "Lauri Turkia"
@@ -28,3 +30,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="ysDZIbPAjcuMIxmdRklNIDM61VozTnlJfnB-rKzfzew" />
