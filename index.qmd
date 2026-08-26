@@ -2,18 +2,18 @@
 title: "Lauri Turkia"
 ---
 
-<!-- TODO: replace with real headshot -->
+![](LauriTurkia.jpg){width=200px}
 
-Researcher, Tampere University (Finnish Institute for Educational Leadership / FIT).
+PhD Student, Tampere University, affiliated with Finnish Centre of Excellence
+in Tax Systems Research (FIT) and Education for the Future Flagship (EDUCA)
 
-<!-- DRAFT: edit me -->
-I study education economics and intergenerational mobility, with a focus on
-how parental wealth shapes children's educational attainment. My current work
-uses Finnish administrative register data to separate the causal effect of
-family resources from selection on family characteristics. See the
-[Research](research.qmd) page for more.
+I am 3rd year PhD student from University of Tampere under supervision of
+[prof. Jarkko Harju](https://sites.google.com/view/jarkkoharju/home) and
+[assistant prof. Vesa-Matti Heikkuri](https://www.tuni.fi/en/people/vesa-matti-heikkuri).
+During the 2026-2027 academic year I am visiting
+[Opportunity Insights](https://opportunityinsights.org/) at Harvard University
+and my host is [prof. Raj Chetty](https://rajchetty.com/).
 
 ## CV
 
-- Education: [TODO: add]
-- Positions: [TODO: add]
+[Download CV (PDF)](cv.pdf)
