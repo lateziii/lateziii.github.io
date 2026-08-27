@@ -1,1 +1,6 @@
 /* css styles */
+
+/* Hide the page description subtitle (kept in frontmatter for SEO/meta tags only) */
+#title-block-header .description {
+  display: none;
+}
