@@ -1,19 +1,22 @@
 ---
 title: "Lauri Turkia"
-description: "PhD student in economics at Tampere University, researching parental wealth, education, and inequality."
+description: "Lauri Turkia is a PhD candidate in economics at Tampere University, currently visiting Opportunity Insights at Harvard University."
 ---
 
 ![](LauriTurkia.jpg){width=200px}
 
-PhD Student, Tampere University, affiliated with Finnish Centre of Excellence
-in Tax Systems Research (FIT) and Education for the Future Flagship (EDUCA)
-
-I am 3rd year PhD student from University of Tampere under supervision of
+I am a third-year PhD student at Tampere University, affiliated with the
+Finnish Centre of Excellence in Tax Systems Research (FIT) and the Education
+for the Future Flagship (EDUCA), under the supervision of
 prof. [Jarkko Harju](https://sites.google.com/view/jarkkoharju/home) and
 assistant prof. [Vesa-Matti Heikkuri](https://www.vesamattiheikkuri.com).
+
+My research is in labor economics, focusing on education, intergenerational
+mobility, and inequality.
+
 During the 2026-2027 academic year I am visiting
-[Opportunity Insights](https://opportunityinsights.org/) at Harvard University
-and my host is prof. [Raj Chetty](https://rajchetty.com/).
+[Opportunity Insights](https://opportunityinsights.org/) at Harvard University,
+hosted by prof. [Raj Chetty](https://rajchetty.com/).
 
 ## CV
 
